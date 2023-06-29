@@ -1,0 +1,14 @@
+[
+  {
+    "productName" : "chatGPT",
+    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIUw8-bvWlgCgCI7ftTBKg6hvih9N3v1AAZvfpfhfAYWNmfsHn6rTAs5eZtUK2hI_hr0A&usqp=CAU",
+    "link": "https://chat.openai.com/",
+    "desc": "You can ask Anything about any Topic and it is a bot"
+  },
+  {
+   "productName" : "Bard",
+    "image" : "https://chromeunboxed.com/wp-content/uploads/2023/03/Google-Bard-Feature.png?ezimgfmt=ng%3Awebp%2Fngcb93%2Frs%3Adevice%2Frscb94-1",
+    "link": "https://bard.google.com/?hl=en",
+    "desc": "Google AI chatbot"
+  }
+]

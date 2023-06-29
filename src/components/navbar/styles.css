@@ -1,0 +1,11 @@
+.h1 {
+    margin : 1rem;
+    color: white;
+}
+
+.input {
+    padding: 0.2rem;
+    border: 2px solid white;
+    color: white;
+    width: 40vw;
+}
